@@ -34,7 +34,8 @@
     "lodash": "^4.17.4",
     "preconditions": "^1.0.8",
     "sjcl": "1.0.3",
-    "superagent": "^3.4.1"
+    "superagent": "^3.4.1",
+	"bitcore-lib-eth": "git://github.com/dasenlinCode/bitcore-lib.git#<test>",
   },
   "devDependencies": {
     "bitcore-wallet-service": "2.3.0",
